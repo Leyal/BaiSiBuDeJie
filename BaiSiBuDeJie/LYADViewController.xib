@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LYADViewController">
+            <connections>
+                <outlet property="adIamge" destination="LEa-bR-vIl" id="PL9-Fw-dHa"/>
+                <outlet property="view" destination="iN0-l3-epB" id="3q5-bE-D6h"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JZU-DZ-M23">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="LEa-bR-vIl">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="LEa-bR-vIl" firstAttribute="leading" secondItem="JZU-DZ-M23" secondAttribute="leading" id="Hze-HJ-hzF"/>
+                        <constraint firstAttribute="trailing" secondItem="LEa-bR-vIl" secondAttribute="trailing" id="ONu-xC-aaC"/>
+                        <constraint firstAttribute="bottom" secondItem="LEa-bR-vIl" secondAttribute="bottom" id="dTf-KD-FiC"/>
+                        <constraint firstItem="LEa-bR-vIl" firstAttribute="top" secondItem="JZU-DZ-M23" secondAttribute="top" id="o5O-34-WRd"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="JZU-DZ-M23" secondAttribute="bottom" id="gFg-KX-wVy"/>
+                <constraint firstAttribute="trailing" secondItem="JZU-DZ-M23" secondAttribute="trailing" id="hh5-aH-j90"/>
+                <constraint firstItem="JZU-DZ-M23" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ni5-Yi-BT4"/>
+                <constraint firstItem="JZU-DZ-M23" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="vbw-5I-hXT"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <point key="canvasLocation" x="-1880" y="-174"/>
+        </view>
+    </objects>
+</document>

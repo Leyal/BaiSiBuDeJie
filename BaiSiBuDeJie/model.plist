@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>icon1.jpg</string>
+		<key>date</key>
+		<string>2017.6.13</string>
+		<key>nickName</key>
+		<string>Leyal</string>
+		<key>title</key>
+		<string>IOS移动互联人才培养兴趣班</string>
+		<key>content</key>
+		<string>苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。</string>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon2.jpg</string>
+		<key>nickName</key>
+		<string>Zhang Egg</string>
+		<key>title</key>
+		<string>IOS移动互联人才培养兴趣班</string>
+		<key>date</key>
+		<string>2017.4.13</string>
+		<key>content</key>
+		<string>海绵状血管瘤是指由众多薄壁血管组成的海绵状异常血管团，由于血管造影检查时常无异常血管团的发现，故将其归类于隐匿型血管畸形。实际该病并非真正的肿瘤，而是一种缺乏动脉成分的血管畸形。随着医学影像学的发展，有关该病的报告日渐增多。在人群中的发生率估计为0.5%～0.7%，占所有脑血管畸形的8%～15%。因部分患者无症状，故确切的人群发生率仍不确知。海绵状血管瘤好发于30～40岁，无明显性别差异。</string>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon3.png</string>
+		<key>nickName</key>
+		<string>Mass</string>
+		<key>title</key>
+		<string>IOS移动互联人才培养兴趣班</string>
+		<key>date</key>
+		<string>2017.3.10</string>
+		<key>content</key>
+		<string>室女座中的主要恒星距离地球800至5000光年，是最大的黄道带星座，每年的春季太阳落山不久，它就出现在东方的地平线上，在春夏两季的夜空中室女座一直吐放着它的光芒。它的面积为1294.43平方度，占全天面积的3.318%，在全天88个星座中，面积排行第二位，仅次于长蛇座。室女座中亮于5.5等的恒星有58颗，最亮星为角宿一（室女座α），视星等为0.98。每年4月11日子夜室女座中心经过上中天。现代的秋分点位于右执法（室女座β）附近。</string>
+		<key>picture</key>
+		<string>ad3.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon1.jpg</string>
+		<key>nickName</key>
+		<string>Mr. DJ</string>
+		<key>date</key>
+		<string>2015.4.9</string>
+		<key>title</key>
+		<string>IOS移动互联人才培养兴趣班</string>
+		<key>content</key>
+		<string>苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。</string>
+		<key>picture</key>
+		<string>ad5.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon1.jpg</string>
+		<key>nickName</key>
+		<string>Fucker</string>
+		<key>date</key>
+		<string>2017.6.19</string>
+		<key>title</key>
+		<string>IOS移动互联人才培养兴趣班</string>
+		<key>content</key>
+		<string>苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。</string>
+		<key>picture</key>
+		<string>ad1.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon1.jpg</string>
+		<key>nickName</key>
+		<string>西门吹雪</string>
+		<key>title</key>
+		<string>IOS移动互联人才培养兴趣班</string>
+		<key>date</key>
+		<string>2017.1.1</string>
+		<key>content</key>
+		<string>苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。</string>
+		<key>picture</key>
+		<string>ad1.png</string>
+	</dict>
+</array>
+</plist>

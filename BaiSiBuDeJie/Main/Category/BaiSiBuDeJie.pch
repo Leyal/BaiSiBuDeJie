@@ -1,0 +1,35 @@
+//
+//  BaiSiBuDeJie.pch
+//  BaiSiBuDeJie
+//
+//  Created by 雷源 on 17/7/1.
+//  Copyright © 2017年 Yuanjihua. All rights reserved.
+//
+
+//#ifndef BaiSiBuDeJie_pch
+//#define BaiSiBuDeJie_pch
+//
+//// Include any system framework and library headers here that should be included in all compilation units.
+//// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//
+//#endif /* BaiSiBuDeJie_pch */
+
+#import "UIView+LY_frame.h"
+#import "UINavigationItem+LYItem.h"
+#import "UINavigationBar+LYFont.h"
+#import <Masonry.h>
+#import <AFNetworking.h>
+#import <UIImageView+WebCache.h>
+#import <MJExtension/MJExtension.h>
+#define ScreenW [UIScreen mainScreen].bounds.size.width
+#define ScreenH [UIScreen mainScreen].bounds.size.height
+#define MAS_SHORTHAND
+#define MAS_SHORTHAND_GLOBALS
+#import "UIView+LY_frame.h"
+#ifdef DEBUG
+#define LYLog(...) NSLog(__VA_ARGS__)
+
+#else
+#define LYLog(...)
+
+#endif
